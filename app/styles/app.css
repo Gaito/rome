@@ -1,0 +1,19 @@
+body {
+  margin     : 0;
+  padding    : 0;
+  background : black;
+  color      : white;
+}
+
+.rm-body {
+  padding : 24px 24px 48px;
+}
+
+.btn {
+  padding       : 8px 16px;
+  background    : #2b81af;
+  color         : white;
+  transition    : 0.2s;
+  cursor        : pointer;
+  border-radius : 3px;
+}
