@@ -7,7 +7,6 @@ var itemsList = [
   'item 2',
   'item 3'
 ];
-window.console.info('>> itemsList >>>', itemsList);
 
 export default Route.extend({
   model() {
